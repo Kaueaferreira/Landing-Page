@@ -88,7 +88,14 @@ phone_button button{
 
     #cta{
         width: 100%;
+        text-align: center;
         align-items: center;
     }
 
+}
+
+@media screen and (max-width: 450px){
+    #phone_buttob button{
+        display: none;
+    }
 }
