@@ -25,6 +25,7 @@
     background-color: white;
     box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.1);
     position: relative;
+    overflow: hidden; /* tudo o que tiver fora será escondido*/
 }
 
 .dish-heart{
@@ -39,4 +40,19 @@
     height: 70px;
     right: -10px;
     top: -10px;
+    border-radius: 0px 37.5px 0px 42.5px;
+}
+.dish-description{
+    color: #434343;
+    text-align: center;
+}
+
+.dish-rate i{
+    color:#e9a209
+}
+
+.dish-price {
+    display: flex;
+    align-items: center;
+    gap: 20px;
 }
