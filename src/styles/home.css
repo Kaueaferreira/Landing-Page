@@ -16,11 +16,11 @@
 
 #cta .title{
     font-size: 4rem;
-    color: #1d1d1d;
+    color: var(--color-neutral-9);
 }
 
 #cta .title span {
-    color: #var(--color-primary-6);
+    color: var(--color-primary-6);
 }
 
 #cta .description {
@@ -34,7 +34,7 @@
 
 #cta_buttons a {
     text-decoration: none;
-    color: #1d1d1d;
+    color: var(--color-neutral-9);
 }
 
 #phone_button {
