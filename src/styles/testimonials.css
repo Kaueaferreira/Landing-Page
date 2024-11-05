@@ -54,7 +54,7 @@
 .feedback-content p span{
     
     /*
-    background-color: #fff9ea;
+    background-color: var(--color-primary-1);
     padding: 5px;
     border-radius: 10px;
 
