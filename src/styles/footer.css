@@ -1,7 +1,7 @@
 @import url(../import/import.css);
 
 footer {
-    background-color: #ffe8b4;
+    background-color: var(--color-primary-2);
 }
 
 #footer_items {

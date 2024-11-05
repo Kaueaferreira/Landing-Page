@@ -23,7 +23,7 @@ section {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-color: #ffcb45;
+    background-color: var(--color-primary-5);
     border-radius: 12px;
     padding: 10px 14px;
     font-weight: 600;
@@ -35,7 +35,7 @@ section {
 /* hover basicamente quando o cursor do mouse encostar no buttom ele alterar de cor*/
 
 .btn-default:hover {
-    background-color: #f8d477;
+    background-color: var(--color-primary-3);
 }
 
 .social-media-buttons {
@@ -63,7 +63,7 @@ section {
 }
 
 .section-title{
-    color: #e9a209;
+    color: #var(--color-primary-6);
     font-size: 1.5633em;
 }
 
