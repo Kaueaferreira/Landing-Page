@@ -29,10 +29,12 @@ header {
 
 .nav-item a {
     text-decoration: none;
-    color:var(--color-neutral-9)ad ;
+    color: #1d1d1dad ;
     font-weight: 600;
 }
 
+
+/*esse é o risco que fica em baixo de inicio*/
 .nav-item.active a {
     color: var(--color-neutral-9);
     border-bottom: 3px solid var(--color-primary-4);
