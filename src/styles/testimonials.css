@@ -1,3 +1,5 @@
+@import url(../import/import.css);
+
 #testimonials {
     min-width: calc(100vh-91px);
     display: flex;

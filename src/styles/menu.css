@@ -1,3 +1,5 @@
+@import url(../import/import.css);
+
 #menu{
     display: flex;
     flex-direction: column;
